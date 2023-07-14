@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.heading0 {
+    margin: 2% 0% 3% 42%;
+    color: rgb(15, 104, 15);
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+#bg {
+    background-color: rgb(15, 15, 15);
+    padding: 200px;
+    margin: 3% 10% 5% 10%;
+}
+
+.img1 {
+    position: absolute;
+    left: 20%;
+    top: 34%;
+    height: 300px;
+    border-radius: 46%;
+}
+
+.name {
+    color: white;
+    position: absolute;
+    top: 48%;
+    right: 22%;
+}
+
+div h1 {
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 10px;
+
+}
+
+div h3 {
+    margin-top: 30px;
+    margin-left: 33%;
+    font-size: 25px;
+    letter-spacing: 5px;
+}
+
+.heading1 {
+    margin: 3% 10% 0px 10%;
+    color: rgb(15, 104, 15);
+    font-size: 35px;
+    text-decoration: underline;
+
+}
+
+.para1 {
+    margin: 3% 10% 1% 10%;
+}
+
+.para2 {
+    margin: 0px 10% 3% 10%;
+}
+
+.hr1 {
+    margin: 0px 10% 3% 10%;
+    background-color: grey;
+}
+
+.heading2 {
+    margin: 3% 10% 0px 10%;
+    color: rgb(15, 104, 15);
+    font-size: 35px;
+    text-decoration: underline;
+
+}
+
+.para3 {
+    margin: 3% 10% 3% 10%;
+}
+
+.heading3 {
+    margin: 3% 10% 0px 10%;
+    color: rgb(15, 104, 15);
+    font-size: 35px;
+    text-decoration: underline;
+
+}
+.para4 {
+    margin: 3% 10% 0% 10%;
+}
+.para5 {
+    margin: 1% 10% 3% 10%;
+}
